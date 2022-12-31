@@ -14,7 +14,7 @@
 
 
 
-## JAVA
+## Python
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyuRQAcHElre3b4hwAS3KSSwQz6MRftb-Tg&usqp=CAU)
 
